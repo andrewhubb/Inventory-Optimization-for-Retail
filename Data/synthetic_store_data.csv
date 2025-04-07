@@ -1,100 +1,100 @@
 Store ID,Store Name,City,State,Region
-1,"View, Dallas Store",Dallas,TX,South
-2,"Ton, Las Vegas Store",Las Vegas,NV,West
-3,"Fort, Phoenix Store",Phoenix,AZ,West
-4,"Town, Fort Worth Store",Fort Worth,TX,South
-5,"Port, Los Angeles Store",Los Angeles,CA,West
-6,"Town, Providence Store",Providence,RI,Northeast
-7,"Side, Minneapolis Store",Minneapolis,MN,Midwest
-8,"Town, Minneapolis Store",Minneapolis,MN,Midwest
-9,"Land, Nashville Store",Nashville,TN,South
-10,"Shire, Nashville Store",Nashville,TN,South
-11,"Berg, Providence Store",Providence,RI,Northeast
-12,"Berg, San Diego Store",San Diego,CA,West
-13,"Land, Minneapolis Store",Minneapolis,MN,Midwest
-14,"Bury, Portland Store",Portland,OR,West
-15,"Mouth, Nashville Store",Nashville,TN,South
-16,"Land, Seattle Store",Seattle,WA,West
-17,"Ton, Orlando Store",Orlando,FL,South
-18,"Side, Philadelphia Store",Philadelphia,PA,Northeast
-19,"Furt, Fort Worth Store",Fort Worth,TX,South
-20,"Fort, Buffalo Store",Buffalo,NY,Northeast
-21,"Land, Hartford Store",Hartford,CT,Northeast
-22,"Burgh, Charlotte Store",Charlotte,NC,South
-23,"Stad, Denver Store",Denver,CO,West
-24,"View, Minneapolis Store",Minneapolis,MN,Midwest
-25,"Town, San Francisco Store",San Francisco,CA,West
-26,"Burgh, Columbus Store",Columbus,OH,Midwest
-27,"Mouth, New York Store",New York,NY,Northeast
-28,"Ville, Charlotte Store",Charlotte,NC,South
-29,"Fort, Miami Store",Miami,FL,South
-30,"Ville, New York Store",New York,NY,Northeast
-31,"Land, Las Vegas Store",Las Vegas,NV,West
-32,"Town, Detroit Store",Detroit,MI,Midwest
-33,"View, San Francisco Store",San Francisco,CA,West
-34,"Stad, Fort Worth Store",Fort Worth,TX,South
-35,"Shire, Denver Store",Denver,CO,West
-36,"Stad, Portland Store",Portland,OR,West
-37,"Town, Houston Store",Houston,TX,South
-38,"Ville, Minneapolis Store",Minneapolis,MN,Midwest
-39,"Port, Miami Store",Miami,FL,South
-40,"Bury, St. Louis Store",St. Louis,MO,Midwest
-41,"View, New York Store",New York,NY,Northeast
-42,"Furt, Hartford Store",Hartford,CT,Northeast
-43,"Town, Philadelphia Store",Philadelphia,PA,Northeast
-44,"Mouth, Chicago Store",Chicago,IL,Midwest
-45,"View, Fort Worth Store",Fort Worth,TX,South
-46,"Fort, Dallas Store",Dallas,TX,South
-47,"Ton, Atlanta Store",Atlanta,GA,South
-48,"Port, Columbus Store",Columbus,OH,Midwest
-49,"Chester, St. Louis Store",St. Louis,MO,Midwest
-50,"Fort, Providence Store",Providence,RI,Northeast
-51,"Burgh, St. Louis Store",St. Louis,MO,Midwest
-52,"Shire, Chicago Store",Chicago,IL,Midwest
-53,"Haven, Chicago Store",Chicago,IL,Midwest
-54,"Ton, Columbus Store",Columbus,OH,Midwest
-55,"Ville, Orlando Store",Orlando,FL,South
-56,"Side, Denver Store",Denver,CO,West
-57,"Mouth, Columbus Store",Columbus,OH,Midwest
-58,"Haven, Orlando Store",Orlando,FL,South
-59,"Burgh, Chicago Store",Chicago,IL,Midwest
-60,"Chester, Los Angeles Store",Los Angeles,CA,West
-61,"Borough, Philadelphia Store",Philadelphia,PA,Northeast
-62,"Fort, San Diego Store",San Diego,CA,West
-63,"Side, Detroit Store",Detroit,MI,Midwest
-64,"View, Providence Store",Providence,RI,Northeast
-65,"Mouth, San Francisco Store",San Francisco,CA,West
-66,"Bury, Chicago Store",Chicago,IL,Midwest
-67,"Haven, Minneapolis Store",Minneapolis,MN,Midwest
-68,"Haven, Atlanta Store",Atlanta,GA,South
-69,"Stad, Detroit Store",Detroit,MI,Midwest
-70,"Port, St. Louis Store",St. Louis,MO,Midwest
-71,"View, Orlando Store",Orlando,FL,South
-72,"Fort, Charlotte Store",Charlotte,NC,South
-73,"Mouth, St. Louis Store",St. Louis,MO,Midwest
-74,"Chester, Fort Worth Store",Fort Worth,TX,South
-75,"Shire, Phoenix Store",Phoenix,AZ,West
-76,"Land, San Diego Store",San Diego,CA,West
-77,"Land, Houston Store",Houston,TX,South
-78,"Side, Charlotte Store",Charlotte,NC,South
-79,"Port, New York Store",New York,NY,Northeast
-80,"Berg, Denver Store",Denver,CO,West
-81,"View, Buffalo Store",Buffalo,NY,Northeast
-82,"Bury, Hartford Store",Hartford,CT,Northeast
-83,"Burgh, Seattle Store",Seattle,WA,West
-84,"Shire, Detroit Store",Detroit,MI,Midwest
-85,"Stad, Hartford Store",Hartford,CT,Northeast
-86,"Burgh, Hartford Store",Hartford,CT,Northeast
-87,"Port, Orlando Store",Orlando,FL,South
-88,"Fort, Los Angeles Store",Los Angeles,CA,West
-89,"Ton, Hartford Store",Hartford,CT,Northeast
-90,"Mouth, Phoenix Store",Phoenix,AZ,West
-91,"Ton, Providence Store",Providence,RI,Northeast
-92,"Port, Philadelphia Store",Philadelphia,PA,Northeast
-93,"Furt, Buffalo Store",Buffalo,NY,Northeast
-94,"Fort, Philadelphia Store",Philadelphia,PA,Northeast
-95,"Ville, Columbus Store",Columbus,OH,Midwest
-96,"Bury, Denver Store",Denver,CO,West
-97,"Berg, Minneapolis Store",Minneapolis,MN,Midwest
-98,"Borough, Orlando Store",Orlando,FL,South
-99,"Mouth, Minneapolis Store",Minneapolis,MN,Midwest
+1,"Summerlin, Las Vegas Store",Las Vegas,NV,West
+2,"Greenwood, Seattle Store",Seattle,WA,West
+3,"The Woodlands, Houston Store",Houston,TX,South
+4,"Gilbert, Phoenix Store",Phoenix,AZ,West
+5,"Franklin, Detroit Store",Detroit,MI,Midwest
+6,"Germantown, Nashville Store",Nashville,TN,South
+7,"Mansfield, Dallas Store",Dallas,TX,South
+8,"Noda, Charlotte Store",Charlotte,NC,South
+9,"Fort, Hartford Store",Hartford,CT,Northeast
+10,"Ville, Providence Store",Providence,RI,Northeast
+11,"Haven, Buffalo Store",Buffalo,NY,Northeast
+12,"Arena District, Columbus Store",Columbus,OH,Midwest
+13,"Waxahachie, Dallas Store",Dallas,TX,South
+14,"Castro, San Francisco Store",San Francisco,CA,West
+15,"Sylvan Park, Nashville Store",Nashville,TN,South
+16,"Carlsbad, San Diego Store",San Diego,CA,West
+17,"Noda, Charlotte Store 2",Charlotte,NC,South
+18,"St. Louis Park, Minneapolis Store",Minneapolis,MN,Midwest
+19,"Mission District, San Francisco Store",San Francisco,CA,West
+20,"Katy, Houston Store",Houston,TX,South
+21,"South Downtown, Atlanta Store",Atlanta,GA,South
+22,"Mesa, Phoenix Store",Phoenix,AZ,West
+23,"Soulard, St. Louis Store",St. Louis,MO,Midwest
+24,"Tigard, Portland Store",Portland,OR,West
+25,"Highlands, Denver Store",Denver,CO,West
+26,"Kirkman, Orlando Store",Orlando,FL,South
+27,"Spring, Houston Store",Houston,TX,South
+28,"Capitol Hill, Denver Store",Denver,CO,West
+29,"Mouth, Philadelphia Store",Philadelphia,PA,Northeast
+30,"Noe Valley, San Francisco Store",San Francisco,CA,West
+31,"Santa Monica, Los Angeles Store",Los Angeles,CA,West
+32,"La Jolla, San Diego Store",San Diego,CA,West
+33,"Pearland, Houston Store",Houston,TX,South
+34,"Troy, Detroit Store",Detroit,MI,Midwest
+35,"Troy, Detroit Store 2",Detroit,MI,Midwest
+36,"West Seattle, Seattle Store",Seattle,WA,West
+37,"Berg, Buffalo Store",Buffalo,NY,Northeast
+38,"North Las Vegas, Las Vegas Store",Las Vegas,NV,West
+39,"Mission Valley, San Diego Store",San Diego,CA,West
+40,"Burgh, Hartford Store",Hartford,CT,Northeast
+41,"Berg, New York Store",New York,NY,Northeast
+42,"Shire, Providence Store",Providence,RI,Northeast
+43,"Green Hill, Nashville Store",Nashville,TN,South
+44,"Bexley, Columbus Store",Columbus,OH,Midwest
+45,"Glendale, Phoenix Store",Phoenix,AZ,West
+46,"West Seattle, Seattle Store 2",Seattle,WA,West
+47,"Ballantyne, Charlotte Store",Charlotte,NC,South
+48,"Forney, Dallas Store",Dallas,TX,South
+49,"Mouth, Philadelphia Store 2",Philadelphia,PA,Northeast
+50,"Chester, Fort Worth Store",Fort Worth,TX,South
+51,"The Hill, St. Louis Store",St. Louis,MO,Midwest
+52,"Furt, Providence Store",Providence,RI,Northeast
+53,"South Eola, Orlando Store",Orlando,FL,South
+54,"Port, Fort Worth Store",Fort Worth,TX,South
+55,"Ton, Buffalo Store",Buffalo,NY,Northeast
+56,"Lincoln Park, Chicago Store",Chicago,IL,Midwest
+57,"Woodbury, Minneapolis Store",Minneapolis,MN,Midwest
+58,"Downtown, Nashville Store",Nashville,TN,South
+59,"Sylvan Park, Nashville Store 2",Nashville,TN,South
+60,"Capitol Hill, Denver Store 2",Denver,CO,West
+61,"Sanford, Orlando Store",Orlando,FL,South
+62,"Flower Mound, Dallas Store",Dallas,TX,South
+63,"Spring, Houston Store 2",Houston,TX,South
+64,"Shire, Buffalo Store",Buffalo,NY,Northeast
+65,"Summerlin, Las Vegas Store 2",Las Vegas,NV,West
+66,"Berg, Hartford Store",Hartford,CT,Northeast
+67,"Frisco, Dallas Store",Dallas,TX,South
+68,"Short North, Columbus Store",Columbus,OH,Midwest
+69,"Bel Air, Orlando Store",Orlando,FL,South
+70,"Ton, Boston Store",Boston,MA,Northeast
+71,"Lake Oswego, Portland Store",Portland,OR,West
+72,"Santa Monica, Los Angeles Store 2",Los Angeles,CA,West
+73,"View, Providence Store",Providence,RI,Northeast
+74,"Brighton Park, Chicago Store",Chicago,IL,Midwest
+75,"Waxahachie, Dallas Store 2",Dallas,TX,South
+76,"Lakewood, Denver Store",Denver,CO,West
+77,"Wicker Park, Chicago Store",Chicago,IL,Midwest
+78,"Clintonville, Columbus Store",Columbus,OH,Midwest
+79,"Ville, Philadelphia Store",Philadelphia,PA,Northeast
+80,"Aurora, Denver Store",Denver,CO,West
+81,"Beaverton, Portland Store",Portland,OR,West
+82,"Little Havana, Miami Store",Miami,FL,South
+83,"Sunrise Manor, Las Vegas Store",Las Vegas,NV,West
+84,"Ton, Hartford Store",Hartford,CT,Northeast
+85,"Dearborn, Detroit Store",Detroit,MI,Midwest
+86,"Town, Providence Store",Providence,RI,Northeast
+87,"Delray, Detroit Store",Detroit,MI,Midwest
+88,"Side, Buffalo Store",Buffalo,NY,Northeast
+89,"Land, Buffalo Store",Buffalo,NY,Northeast
+90,"Maplewood, St. Louis Store",St. Louis,MO,Midwest
+91,"View, Buffalo Store",Buffalo,NY,Northeast
+92,"Dublin, Columbus Store",Columbus,OH,Midwest
+93,"Fort, Fort Worth Store",Fort Worth,TX,South
+94,"Lafayette Square, St. Louis Store",St. Louis,MO,Midwest
+95,"High Point, Atlanta Store",Atlanta,GA,South
+96,"Gresham, Portland Store",Portland,OR,West
+97,"Glendale, Los Angeles Store",Los Angeles,CA,West
+98,"University City, Charlotte Store",Charlotte,NC,South
+99,"Frisco, Dallas Store 2",Dallas,TX,South
